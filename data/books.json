@@ -1,0 +1,18 @@
+[
+  {
+    "id": "0c0e5205-c6c7-4d21-a1dc-98806ff86b09",
+    "title": "Capitães de Areia",
+    "author": "Jorge Amado",
+    "price": 39.9,
+    "category": "Romance",
+    "stock": 15
+  },
+  {
+    "id": "86d24428-653c-4502-ae3e-25c33e88dab2",
+    "title": "O Pequeno Príncipe",
+    "author": "Antoine de Saint-Exupéry",
+    "price": 12.99,
+    "category": "Romance",
+    "stock": 20
+  }
+]
