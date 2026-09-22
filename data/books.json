@@ -14,5 +14,13 @@
     "price": 12.99,
     "category": "Romance",
     "stock": 20
+  },
+  {
+    "id": "05a902b8-81fd-4eda-be97-b6349ee7cf5d",
+    "title": "O diario",
+    "author": "Anne Frank",
+    "price": 12.99,
+    "category": "Biografia",
+    "stock": 0
   }
 ]

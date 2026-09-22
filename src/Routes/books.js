@@ -1,7 +1,7 @@
 const express = require('express');
 const bookService = require('../services/bookService');
 const { createBookSchema, updateBookSchema } = require('../schemas/bookSchema');
-const router = express.Router();
+const router = express.Router(); 
 
 //GET /books Lista todos os livros ou filtra por categoria 
 router.get('/', async (req, res) => {
