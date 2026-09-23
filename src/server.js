@@ -1,4 +1,6 @@
+//lê o .env
 require('dotenv').config();
+//importa as configurações de rotas middlewears etc
 const app = require('./app');
 
 const PORT = process.env.PORT || 3002;

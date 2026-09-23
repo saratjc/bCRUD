@@ -22,5 +22,13 @@
     "price": 12.99,
     "category": "Biografia",
     "stock": 0
+  },
+  {
+    "id": "7d198f54-bbd2-4510-b76a-f194bb4f1940",
+    "title": "Dias Perfeitos",
+    "author": "Raphael Montes",
+    "price": 40,
+    "category": "Suspense",
+    "stock": 13
   }
 ]
